@@ -45,9 +45,8 @@
   <value name="retry_max">0</value>
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
-    <value name="createdBy">flowqa</value>
-    <value name="createdDate">1755679551325</value>
-    <value name="lastModifiedDate">1755679551325</value>
+    <value name="lastModifiedBy">flowqa</value>
+    <value name="lastModifiedDate">1755679748163</value>
     <value name="displayName">Test1</value>
     <value name="description"></value>
     <record name="stepNodeHints" javaclass="com.wm.util.Values">
@@ -64,6 +63,24 @@
           <value name="serviceName">pub.date:getCurrentDate</value>
           <value name="transformerSupport">true</value>
         </record>
+        <Boolean name="serviceReferenceResolved">true</Boolean>
+        <value name="nodePathForDebug">0</value>
+      </record>
+      <record name="/1" javaclass="com.wm.util.Values">
+        <null name="name"/>
+        <value name="itemType">SERVICES</value>
+        <record name="serviceInfo" javaclass="com.wm.util.Values">
+          <value name="groupDisplayName">Reference Data</value>
+          <value name="groupName">referenceData</value>
+          <null name="services"/>
+        </record>
+        <record name="serviceName" javaclass="com.wm.util.Values">
+          <value name="displayName">refD1</value>
+          <value name="serviceName">project.testgitenhancement.referencedata:refD1</value>
+          <double name="rank" type="Double">0.4</double>
+        </record>
+        <null name="outputMapSet"/>
+        <null name="mapSet"/>
       </record>
     </record>
   </record>
