@@ -9,7 +9,7 @@
   <COMMENT></COMMENT>
 </INVOKE>
 
-<INVOKE NAME="Reference Data" SERVICE="project.testgitenhancement.referencedata:refD1">
+<INVOKE NAME="Reference Data" SERVICE="project.testgitenhancement.referencedata:refD2">
   <COMMENT></COMMENT>
 </INVOKE>
 </FLOW>

@@ -46,7 +46,7 @@
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
     <value name="lastModifiedBy">flowqa</value>
-    <value name="lastModifiedDate">1755679748163</value>
+    <value name="lastModifiedDate">1755679757439</value>
     <value name="displayName">Test1</value>
     <value name="description"></value>
     <record name="stepNodeHints" javaclass="com.wm.util.Values">
@@ -75,8 +75,8 @@
           <null name="services"/>
         </record>
         <record name="serviceName" javaclass="com.wm.util.Values">
-          <value name="displayName">refD1</value>
-          <value name="serviceName">project.testgitenhancement.referencedata:refD1</value>
+          <value name="displayName">refD2</value>
+          <value name="serviceName">project.testgitenhancement.referencedata:refD2</value>
           <double name="rank" type="Double">0.4</double>
         </record>
         <null name="outputMapSet"/>
