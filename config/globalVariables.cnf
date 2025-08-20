@@ -18,11 +18,6 @@
         <value name="value">aaaaaa</value>
         <value name="isSecure">false</value>
       </record>
-      <record javaclass="com.wm.data.ISMemDataImpl">
-        <value name="key">var5</value>
-        <value name="value">axxx</value>
-        <value name="isSecure">false</value>
-      </record>
     </array>
   </record>
 </IDataXMLCoder>
