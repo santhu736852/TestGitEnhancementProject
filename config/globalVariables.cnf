@@ -13,6 +13,11 @@
         <value name="value">gvhandle.Var3</value>
         <value name="isSecure">true</value>
       </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">TestVar4</value>
+        <value name="value">abc</value>
+        <value name="isSecure">false</value>
+      </record>
     </array>
   </record>
 </IDataXMLCoder>
